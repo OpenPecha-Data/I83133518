@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14532
   title: ཕའེ་གུན་ནས་མི་ཚེ་གླེང་བ།
-  volume: ''
+  volume:
+    b4ea634e19ce48c99718626fe54ff116:
+      image_group_id: I1KG15680
+      title: Volume 1 of pha'e gun nas mi tshe gleng ba/
+      volume_number: 1
+      total_pages: 156
   author: ''
+ebook_metadata:
+  title: ཕའེ་གུན་ནས་མི་ཚེ་གླེང་བ།
+  author: ''
+  sku: P007006
+  cover: cover.jpg
+  layers:
+  - pagination
