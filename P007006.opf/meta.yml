@@ -1,15 +1,16 @@
-id: opecha:P007006
+id: P007006
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14532
   title: ཕའེ་གུན་ནས་མི་ཚེ་གླེང་བ།
-  volume:
+  author: ''
+  volumes:
     b4ea634e19ce48c99718626fe54ff116:
       image_group_id: I1KG15680
       title: Volume 1 of pha'e gun nas mi tshe gleng ba/
       volume_number: 1
       total_pages: 156
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཕའེ་གུན་ནས་མི་ཚེ་གླེང་བ།
   author: ''
